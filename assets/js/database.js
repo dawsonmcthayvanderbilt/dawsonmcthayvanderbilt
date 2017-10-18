@@ -110,6 +110,84 @@ HealthRisks.addEventListener('click', function(e)
             case "Intentional Self-harm (suicide)":
             main.textContent ="Seek medical help and if you have, stick to your treatment plan. \n Recognize the situations or feelings that might trigger your desire to self-harm. \n Take care of yourself. \n Avoid alcohol or recreational drugs. \n Take appropriate care of your wounds if you injure yourself. \n Connect with others who can support you. \n Challenge the negative thoughts. \n Get enough sleep, eat well, and excercise regularly.\n Find ways to handle stress and improve your self-esteem."; 
             break;
+            case "Uterine Cancer":
+            main.textContent ="Maintain a healthy diet and lifestyle. If you have diabetes, good disease management, such as regularly monitoring blood glucose levels, can lower risk."; 
+            break; 
+            
+            case "Stomach Cancer":
+            main.textContent ="To help reduce your risk, avoid a diet that is high in smoked and pickled foods and salted meats and fish. Also, avoid using tobacco and maintain a helthy body weight and lifestyle"; 
+            break;
+
+            case "Skin Cancer":
+            main.textContent ="Seek the shade, especially between 10 AM and 4 PM. Do not burn. \n Avoid tanning and UV tanning beds.\n Cover up with clothing, including a broad-brimmed hat and UV-blocking sunglasses.\n Use a broad spectrum (UVA/UVB) sunscreen with an SPF of 15 or higher every day. For extended outdoor activity, use a water-resistant, broad spectrum (UVA/UVB) sunscreen with an SPF of 30 or higher.\n Apply 1 ounce (2 tablespoons) of sunscreen to your entire body 30 minutes before going outside.Reapply every two hours or immediately after swimming or excessive sweating.\n Keep newborns out of the sun. Sunscreens should be used on babies over the age of six months.\n Examine your skin head-to-toe every month.\n See your physician every year for a professional skin exam."; 
+            break;
+            
+            case "Septicemia":
+            main.textContent ="avoid smoking.\n avoid illegal drugs \n eat a healthy diet \n exercise \n wash your hands regularly \n stay away from people who are sick"; 
+            break;
+            
+            case "Prostate Hyperplasia":
+            main.textContent ="Avoid use of over-the-counter antihistamines and decongestants: Use of these medications can aggravate BPH symptoms. Don't hold it: Delaying urination can worsen BPH symptoms and even result in urinary tract infections. When you have to go, go."; 
+            break;
+            
+            case "prostate Cancer":
+            main.textContent ="healthy diet and healthy food choices reduce the risk of prostate cancer"; 
+            break;
+            
+            case "Pneumonitis ":
+            main.textContent ="Vaccines can help prevent certain types of pneumonia. Good hygiene, quitting smoking, and keeping your immune system strong by exercising and healthy eating are other ways to prevent pneumonia."; 
+            break;
+            
+            case "Pneumoconiosis":
+            main.textContent ="Wearing a mask \n Washing areas of skin that come in contact with dust \n  Safe removal of dust from clothing \n Washing your face and hands thoroughly before eating, drinking, or taking any medicines \n Not smoking\n Letting your doctor and your employer know about any symptoms of pneumoconiosis\n Getting regular chest X-rays and physical exams\n Getting a yearly flu shot. The flu is a common cause of pneumonia. Because of that, getting a flu shot every year can help prevent both the flu and pneumonia.\n Getting the pneumococcal pneumonia vaccine"; 
+            break;
+            
+            case "Peptic ulcer":
+            main.textContent ="Stop smoking. Practice moderation. Heavy consumption of alcohol and has been shown to contribute to the development of ulcers, so keep your intake to a minimum.\n Take nonsteroidal anti-inflammatory drugs (NSAIDS including aspirin and ibuprofen) with food, as this may decrease your risk of irritating the lining of your stomach. healthy diet"; 
+            break;
+            
+            case "Parkinson's disease":
+            main.textContent ="Research has shown that people who eat more fruits and vegetables, high-fiber foods, fish, and omega-3 rich oils (sometimes known as the Mediterranean diet) and who eat less red meat and dairy may have some protection against Parkinson's."; 
+            break;
+            
+            case "Pancreatic cancer":
+            main.textContent ="stop smoking. maintaining a healthy weight and a healthy diet may reduce the risk of pancreatic cancer."; 
+            break;
+            
+            case "Ovarian Cancer":
+            main.textContent ="Using oral contraceptives (birth control pills) decreases the risk of developing ovarian cancer, especially among women who use them for several years. gynecological surgery"; 
+            break;
+            
+            case "Oral Cancer":
+            main.textContent ="stop or dont start using tobacco. healthy diet and limiting alcohol consumption can all help reduce your risk of oral cancer. Also try to avoid direct sunlight to your lips."; 
+            break;
+            
+            case "Nutritional deficiencies":
+            main.textContent ="Maintain a healthy diet and lifestyle."; 
+            break;
+            
+            case "Kidney Disease":
+            main.textContent ="Maintain a healthy diet and lifestyle. Avoid tobacco, and over-consumption of alcohol"; 
+            break;
+            
+            case "Lung Cancer":
+            main.textContent ="Avoid tobacco products and second hand smoke. Maintain a healthy diet and lifestyle."; 
+            break;
+            
+            case "Liver Cancer":
+            main.textContent ="Maintain a healthy diet and lifestyle. Avoid over-consumption of alcohol and infection with the hepatitis B and C viruses"; 
+            break;
+            
+            case "Laryngeal Cancer":
+            main.textContent ="Maintain a healthy diet and lifestyle. Avoid tobacco products,over-consumption of alcohol, and the HPV virus"; 
+            break;
+            case "Kidney Cancer":
+            main.textContent ="Maintian a healthy diet and lifestyle. Avoid tobacco products, over-consumption of alcohol, and high blood pressure."; 
+            break;
+            
+            case "Medical Complications":
+            main.textContent ="There are no proven techniques to reduce the risk of death by medical complications."; 
+            break;
         }
     }
 });
